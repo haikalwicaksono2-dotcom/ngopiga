@@ -1,1 +1,5 @@
-hahaha
+print("KRISHAND INDONESIA")
+print("Jakarta Selatan - Indonesia")
+print("------------------------------------------------------------------------------------------")
+print("                                 I N V O I C E                                            ")
+print("Kepada Yth.                                                    No.       :FT./003/01/2008 ")
